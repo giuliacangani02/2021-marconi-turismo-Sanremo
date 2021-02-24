@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T08:46:02.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="b8IA-qSHExc1NsIcbXgL" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T08:53:59.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="TV9nXYob1mGadx0lKipx" version="14.4.2" type="github">
   <diagram id="99sjXLPgSlSjMUTD32A8" name="Page-1">
-    <mxGraphModel dx="782" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,15 @@
         </mxCell>
         <mxCell id="WWdB1rk4EwseSWnJkzyc-18" value="Museo civico&amp;nbsp;" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.map;" vertex="1" parent="1">
           <mxGeometry x="180" y="1260" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-19" value="Pag. 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-20" value="Pag. 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="940" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-21" value="Pag. 3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1440" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
