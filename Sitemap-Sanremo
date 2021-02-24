@@ -1,1 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T08:24:38.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" version="14.4.2" etag="D_x1EeHLjTAWUuf6moyE" type="github"><diagram id="99sjXLPgSlSjMUTD32A8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-24T08:46:02.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="b8IA-qSHExc1NsIcbXgL" version="14.4.2" type="github">
+  <diagram id="99sjXLPgSlSjMUTD32A8" name="Page-1">
+    <mxGraphModel dx="782" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;strokeColor=#c0c0c0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="10" width="686" height="472" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-3" value="Home" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.home;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="590" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;strokeColor=#c0c0c0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="510" width="686" height="472" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;INFORMAZIONI SUI POI&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="590" width="510" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-6" value="Photo" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.photo;" vertex="1" parent="1">
+          <mxGeometry x="150" y="730" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-7" value="Info" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.info;" vertex="1" parent="1">
+          <mxGeometry x="520" y="730" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-8" value="Video" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.video;" vertex="1" parent="1">
+          <mxGeometry x="340" y="730" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-9" value="" style="endArrow=none;html=1;exitX=0.661;exitY=0.087;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.657;entryY=0.926;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WWdB1rk4EwseSWnJkzyc-4" target="WWdB1rk4EwseSWnJkzyc-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="560" as="sourcePoint" />
+            <mxPoint x="430" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;strokeColor=#c0c0c0;direction=north;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1000" width="686" height="472" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-12" value="Chiesa Russa" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.map;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1110" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-13" value="Madonna della Costa" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.map;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1110" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-14" value="Concattedrale" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.map;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1110" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-15" value="Villa Nobel" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.map;" vertex="1" parent="1">
+          <mxGeometry x="345" y="1260" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-16" value="Corso dell&#39;imperatrice" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.map;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1260" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="WWdB1rk4EwseSWnJkzyc-18" value="Museo civico&amp;nbsp;" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.map;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1260" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
