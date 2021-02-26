@@ -5,7 +5,7 @@ Come amministratore, voglio che il piano di indirizzamento su packet tracer usi 
 Come amministratore, voglio una bozza della pag HTML(3 punti)
 
 # Storia 3
-Come utente, voglio la pagina base implementata (2 punti)
+Come utente, voglio la pagina base implementata su draw.io(2 punti)
 - implementazione del wireframe
 
 PUNTI TOTALE: 6
