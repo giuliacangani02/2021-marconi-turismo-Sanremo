@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T21:19:00.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="l6nfPuSBKzxI4aUh4yac" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-08T21:24:35.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="NXjqAhh2JqJW-Z7kV61o" version="14.4.5" type="github">
   <diagram id="YA528rAX6FVzCynPadKa" name="Page-1">
-    <mxGraphModel dx="782" dy="1635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1609" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TL2mbb96AW4rDnQrQNai-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.tab2;strokeColor=#c0c0c0;direction=north;noLabel=1;fontColor=none;" parent="1" vertex="1">
-          <mxGeometry y="-60" width="820" height="950" as="geometry" />
+          <mxGeometry x="-20" y="-160" width="892.4" height="1030" as="geometry" />
         </mxCell>
         <mxCell id="TL2mbb96AW4rDnQrQNai-2" value="&lt;h1 class=&quot;welcome&quot; style=&quot;font-family: &amp;#34;gill sans&amp;#34; , &amp;#34;gill sans mt&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;trebuchet ms&amp;#34; , sans-serif&quot;&gt;Benvenuto a Sanremo&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;" parent="1" vertex="1">
           <mxGeometry x="60" y="40" width="700" height="20" as="geometry" />
@@ -55,13 +55,13 @@
         <mxCell id="TL2mbb96AW4rDnQrQNai-18" value="&lt;span style=&quot;font-family: &amp;quot;gill sans&amp;quot;, &amp;quot;gill sans mt&amp;quot;, calibri, &amp;quot;trebuchet ms&amp;quot;, sans-serif; font-size: medium; font-style: italic;&quot;&gt;Descrizione Punto di interesse&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="460" width="430" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AT9_Bcm_NehzcaviyFyX-2" value="Video" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.video;" vertex="1" parent="1">
+        <mxCell id="AT9_Bcm_NehzcaviyFyX-2" value="Video" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.video;" parent="1" vertex="1">
           <mxGeometry x="110" y="540" width="280" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="AT9_Bcm_NehzcaviyFyX-3" value="&lt;h3 class=&quot;titoloDescrizione&quot; style=&quot;font-family: &amp;#34;gill sans&amp;#34; , &amp;#34;gill sans mt&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;trebuchet ms&amp;#34; , sans-serif&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Video dei POI di Sanremo&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="AT9_Bcm_NehzcaviyFyX-3" value="&lt;h3 class=&quot;titoloDescrizione&quot; style=&quot;font-family: &amp;#34;gill sans&amp;#34; , &amp;#34;gill sans mt&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;trebuchet ms&amp;#34; , sans-serif&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Video dei POI di Sanremo&lt;/span&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="690" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AT9_Bcm_NehzcaviyFyX-4" value="&lt;span style=&quot;font-family: &amp;#34;gill sans&amp;#34; , &amp;#34;gill sans mt&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;trebuchet ms&amp;#34; , sans-serif ; font-size: 12px ; font-style: italic ; background-color: rgb(255 , 255 , 255)&quot;&gt;Clicca qui sopra per vedere una Panoramica di Sanremo. Premi play per guardarlo, buona visione!&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="AT9_Bcm_NehzcaviyFyX-4" value="&lt;span style=&quot;font-family: &amp;#34;gill sans&amp;#34; , &amp;#34;gill sans mt&amp;#34; , &amp;#34;calibri&amp;#34; , &amp;#34;trebuchet ms&amp;#34; , sans-serif ; font-size: 12px ; font-style: italic ; background-color: rgb(255 , 255 , 255)&quot;&gt;Clicca qui sopra per vedere una Panoramica di Sanremo. Premi play per guardarlo, buona visione!&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="100" y="720" width="510" height="20" as="geometry" />
         </mxCell>
       </root>
