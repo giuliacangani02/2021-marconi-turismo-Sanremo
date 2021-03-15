@@ -4,24 +4,34 @@
       "title": "Concattedrale di Sanremo (5 km)",
       "disp": "Posti disponibili : 34",
       "desc" : "La concattedrale di San Siro (nome completo: Insigne Basilica Collegiata Concattedrale di San Siro) è l'edificio religioso più antico di Sanremo e uno dei principali esempi di architettura romanica nel ponente ligure. Situata nel centro storico, nell'omonima piazza, è stata eretta nel XII secolo.",
-     "img_url": "Concattedrale.jpg",
+     "img_url": "Concattedrale.jpg"
+     "Video":"",
+    "video_url": ""
     },
     {
       "title":"Villa Nobel (12 km)",
       "disp": "Posti disponibili : 98",
       "desc": "Lo splendido edificio è in stile moresco , “il mio nido” per il suo più famoso proprietario, il celebre industriale, chimico e filantropo svedese Alfred Nobel, che in essa lavorò a numerosi brevetti e redasse il famoso testamento con cui destinava la sua fortuna all’istituzione del Premio che porta il suo nome.",
-      "img_url": "VillaNobel.jpg",
+      "img_url": "VillaNobel.jpg"
+      "Video":"",
+    "video_url": ""
     },
     {
      "title":"Santuario della Madonna della Costa (23 km)",
      "disp" : "Posti disponibili : 28",
      "desc": "Il santuario della Madonna della Costa è un santuario mariano che si trova a Sanremo, nella Riviera dei Fiori. Le principali festività si celebrano il 15 agosto (festa dell'Assunta).",
-     "img_url" = "SantuarioMadonna.jpg",
+     "img_url" : "SantuarioMadonna.jpg"
+     "Video":"",
+    "video_url": ""
     },
     {
-    "video_url": "https://www.youtube.com/embed/_u7Dthtf2kY",
-    "title": " Video dei POI di  Sanremo",
+    
+    "title": " Video dei POI di  Sanremo"
+    "disp" : "",
+    "desc": "",
+    "img_url" : "",
     "Video":"Clicca qui sopra per vedere una Panoramica di Sanremo. Premi play per guardarlo, buona visione!",
+    "video_url": "https://www.youtube.com/embed/_u7Dthtf2kY"
     }
   }
 }

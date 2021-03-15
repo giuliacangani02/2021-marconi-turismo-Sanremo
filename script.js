@@ -11,3 +11,14 @@ let init = function() {
 
 $(document).ready(init);
 
+let onFail = function(error) {
+  console.log("errore nella lettura del file json");
+  console.log(error);
+}
+
+let init = function() {
+  $.getJSON("data.php")
+  .done(create_dyn_card)
+  .fail(onFail);
+}
+$(document).ready(init);
