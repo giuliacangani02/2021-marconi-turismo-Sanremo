@@ -9,3 +9,6 @@ Santiago Brosio, per motivi lavorativi,  si reca nella località di Sanremo la m
 
 # User Journey 2
 Rebecca De Metri decide di andare in vacanza a Sanremo data la sua passione per la storia delle città. Durante il viaggio, curiosando su internet, Rebecca viene a conoscenza di un servizio concesso dall'info point di Sanremo che le permette, attraverso un tablet noleggiato, di trovare e visitare i vari punti di interesse in maniera semplice. Appena arrivata a Sanremo, Rebecca si reca immediatamente all'info point per prendere il tablet. Dopo pranzo, Rebecca decide di vistare la Chiesa Russa. All'interno della chiesa però, il tablet non ha segnale. Per questo, usando gli itinerari scaricati in precedenza, Rebecca può comunque recarsi al Santuario Madonna della Costa, anche se non sa se ci sono posti disponibili. Al termine della giornata, Rebecca torna all'info point, restituisce il tablet e va in albergo
+
+# Wireframes
+[Pagina dettaglio POI](https://viewer.diagrams.net/?highlight=0000ff&edit=_blank&layers=1&nav=1&title=WireframeSanremo#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fgiuliacangani02%2F2021-marconi-turismo-Sanremo%2Fmain%2FWireframeSanremo)
