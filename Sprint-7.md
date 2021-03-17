@@ -8,3 +8,8 @@ REFERENTE= Giulia Cangani
 -i punti sono stati svolti tutti insieme
 
 PUNTI TOTALE: 6
+
+# Review 16 marzo
+- 1: OK
+- 2: OK
+100%
