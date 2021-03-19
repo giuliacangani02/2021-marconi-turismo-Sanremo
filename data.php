@@ -26,7 +26,6 @@
 
    $json->Sanremo[2]->title= "Santuario della Madonna della Costa (23 km)";
    $json->Sanremo[2]->disp = "Posti disponibili : 98";
-   Posti disponibili : 28
    $json->Sanremo[2]->desc = "Il santuario della Madonna della Costa è un santuario mariano che si trova a Sanremo, nella Riviera dei Fiori. Le principali festività si celebrano il 15 agosto (festa dell'Assunta).";
    $json->Sanremo[2]->img_url = "Concattedrale.jpg";
    $json->Sanremo[3]->video_url="";
