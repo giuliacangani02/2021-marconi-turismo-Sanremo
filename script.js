@@ -4,25 +4,38 @@ var receiveData = function(data) {
   
   for (poi of poi) {
   let title = $("<h2>").text(Sanremo.title);
-  let Concattedrale_Sanremo(5km) = $("<p>").text(Sanremo.title);
-  let disp = $("<h3>").text(Sanremo.disp);
-  let desc = $("<p>").text(Sanremo.desc);
-  let img_url = $("<img>").attr('src', Sanremo.img_url);
-  let Villa_Nobel(12km) = $("<p>").text(Sanremo.title);
-  let img_url = $("<img>").attr('src', Sanremo.img_url);
-  let Santuario_della_Madonna_della_Costa(23km) = $("<p>").text(Sanremo.desc);
-  let video_url = $("<iframe>").attr('src', Sanremo.video_url);
-  let Video = $("<p>").text(Sanremo.Video);
-  
+  let monumento1 = $("<p>").text(Sanremo.monumento1);
+  let disp1 = $("<h3>").text(Sanremo.disp1);
+  let desc1 = $("<p>").text(Sanremo.desc1);
+  let img_url1 = $("<img>").attr('src', Sanremo.img_url1);
+  let monumento2 = $("<p>").text(Sanremo.monumento2);
+  let disp2 = $("<h3>").text(Sanremo.disp2);
+  let desc2 = $("<p>").text(Sanremo.desc2);
+  let img_url2 = $("<img>").attr('src', Sanremo.img_url2);
+  let monumento3 = $("<p>").text(Sanremo.desc3);
+  let disp3 = $("<h3>").text(Sanremo.disp3);
+  let desc3 = $("<p>").text(Sanremo.desc3);
+  let img_url3 = $("<img>").attr('src', Sanremo.img_url3);
+  let monumento4 = $("<iframe>").attr('src', Sanremo.monumento4);
+  let video = $("<p>").text(Sanremo.video);
+  let video1 = $("<video1>").attr('src', Sanremo.video1);
+
   menu_card
-  .append(title);
-  .append(Concattedrale_di_Sanremo(5km);
-  .append(disp);
-  .append(desc);
-  .append(img_url);
-  .append(Villa_Nobel(12km);
-  .append(Santuario_della_Madonna_della_Costa (23 km);
-  .append(Video);
+  .append(title)
+  .append(monumento1)
+  .append(disp1)
+  .append(desc1)
+  .append(img_url1)
+  .append(monumento2)
+  .append(disp2)
+  .append(desc2)
+  .append(img_url2)
+  .append(monumento3)
+  .append(disp3)
+  .append(desc3)
+  .append(img_url3)
+  .append(monumento4)
+  .append(video);
 
    $(".flexcontainer").append(section);
   }
