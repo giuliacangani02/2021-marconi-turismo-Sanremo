@@ -2,7 +2,7 @@ var receiveData = function(data) {
     console.log(data);
     let Sanremo = data.Sanremo;
   
-  for (poi of poi) {
+  for (poi of Sanremo) {
   let title = $("<h2>").text(Sanremo.title);
   let monumento1 = $("<p>").text(Sanremo.monumento1);
   let disp1 = $("<h3>").text(Sanremo.disp1);
@@ -20,7 +20,7 @@ var receiveData = function(data) {
   let video = $("<p>").text(Sanremo.video);
   let video1 = $("<video1>").attr('src', Sanremo.video1);
 
-  menu_card
+  title
   .append(title)
   .append(monumento1)
   .append(disp1)
@@ -37,16 +37,16 @@ var receiveData = function(data) {
   .append(monumento4)
   .append(video);
 
-   $(".flexcontainer").append(section);
+   $(".flexcontainer").append(title);
   }
 }
 
 let onFail = function(error){
   console.log("errore nella lettura del file json");
-  console.log(errore);
+  console.log(error);
 }
 let init = function() {
-  $.getJSON("data.php")
+  $.getJSON("poi.json")
   .done(receiveData)
   .fail(onFail);
 }
